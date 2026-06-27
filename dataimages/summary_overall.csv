@@ -1,0 +1,2 @@
+num_vax,num_unique_person,num_outcomes_risk,pd_risk,rate_risk,lower_ci,upper_ci,rate_se
+387,335,22,10680,205.9925,129.0944,311.8751,43.9178

@@ -1,0 +1,1001 @@
+zip3,state_fips,state_name,state_abbv,omb_region_label,census_region_label
+415,36,New York,NY,Region II,Northeast:Middle Atlantic
+724,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+946,39,Ohio,OH,Region V,Midwest:East North Central
+743,12,Florida,FL,Region IV,South:South Atlantic
+687,39,Ohio,OH,Region V,Midwest:East North Central
+122,13,Georgia,GA,Region IV,South:South Atlantic
+221,01,Alabama,AL,Region IV,South:East South Central
+485,13,Georgia,GA,Region IV,South:South Atlantic
+390,36,New York,NY,Region II,Northeast:Middle Atlantic
+630,39,Ohio,OH,Region V,Midwest:East North Central
+418,53,Washington,WA,Region X,West:Pacific
+501,48,Texas,TX,Region VI,South:West South Central
+970,37,North Carolina,NC,Region IV,South:South Atlantic
+862,17,Illinois,IL,Region V,Midwest:East North Central
+583,12,Florida,FL,Region IV,South:South Atlantic
+720,22,Louisiana,LA,Region VI,South:West South Central
+825,13,Georgia,GA,Region IV,South:South Atlantic
+795,26,Michigan,MI,Region V,Midwest:East North Central
+550,22,Louisiana,LA,Region VI,South:West South Central
+657,12,Florida,FL,Region IV,South:South Atlantic
+821,48,Texas,TX,Region VI,South:West South Central
+533,51,Virginia,VA,Region III,South:South Atlantic
+561,06,California,CA,Region IX,West:Pacific
+694,12,Florida,FL,Region IV,South:South Atlantic
+455,13,Georgia,GA,Region IV,South:South Atlantic
+429,01,Alabama,AL,Region IV,South:East South Central
+402,53,Washington,WA,Region X,West:Pacific
+258,39,Ohio,OH,Region V,Midwest:East North Central
+352,36,New York,NY,Region II,Northeast:Middle Atlantic
+513,39,Ohio,OH,Region V,Midwest:East North Central
+256,13,Georgia,GA,Region IV,South:South Atlantic
+802,51,Virginia,VA,Region III,South:South Atlantic
+342,37,North Carolina,NC,Region IV,South:South Atlantic
+351,17,Illinois,IL,Region V,Midwest:East North Central
+383,36,New York,NY,Region II,Northeast:Middle Atlantic
+734,01,Alabama,AL,Region IV,South:East South Central
+462,12,Florida,FL,Region IV,South:South Atlantic
+872,26,Michigan,MI,Region V,Midwest:East North Central
+787,13,Georgia,GA,Region IV,South:South Atlantic
+882,13,Georgia,GA,Region IV,South:South Atlantic
+470,26,Michigan,MI,Region V,Midwest:East North Central
+231,36,New York,NY,Region II,Northeast:Middle Atlantic
+354,13,Georgia,GA,Region IV,South:South Atlantic
+488,22,Louisiana,LA,Region VI,South:West South Central
+398,13,Georgia,GA,Region IV,South:South Atlantic
+573,06,California,CA,Region IX,West:Pacific
+335,48,Texas,TX,Region VI,South:West South Central
+496,12,Florida,FL,Region IV,South:South Atlantic
+118,06,California,CA,Region IX,West:Pacific
+800,01,Alabama,AL,Region IV,South:East South Central
+265,53,Washington,WA,Region X,West:Pacific
+459,48,Texas,TX,Region VI,South:West South Central
+159,04,Arizona,AZ,Region IX,West:Mountain
+171,22,Louisiana,LA,Region VI,South:West South Central
+482,12,Florida,FL,Region IV,South:South Atlantic
+936,04,Arizona,AZ,Region IX,West:Mountain
+234,04,Arizona,AZ,Region IX,West:Mountain
+116,53,Washington,WA,Region X,West:Pacific
+852,12,Florida,FL,Region IV,South:South Atlantic
+472,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+715,04,Arizona,AZ,Region IX,West:Mountain
+727,06,California,CA,Region IX,West:Pacific
+677,36,New York,NY,Region II,Northeast:Middle Atlantic
+546,01,Alabama,AL,Region IV,South:East South Central
+341,12,Florida,FL,Region IV,South:South Atlantic
+167,12,Florida,FL,Region IV,South:South Atlantic
+430,22,Louisiana,LA,Region VI,South:West South Central
+726,22,Louisiana,LA,Region VI,South:West South Central
+249,17,Illinois,IL,Region V,Midwest:East North Central
+185,39,Ohio,OH,Region V,Midwest:East North Central
+625,01,Alabama,AL,Region IV,South:East South Central
+744,06,California,CA,Region IX,West:Pacific
+197,13,Georgia,GA,Region IV,South:South Atlantic
+856,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+925,39,Ohio,OH,Region V,Midwest:East North Central
+999,39,Ohio,OH,Region V,Midwest:East North Central
+170,17,Illinois,IL,Region V,Midwest:East North Central
+298,26,Michigan,MI,Region V,Midwest:East North Central
+295,06,California,CA,Region IX,West:Pacific
+837,12,Florida,FL,Region IV,South:South Atlantic
+498,01,Alabama,AL,Region IV,South:East South Central
+211,22,Louisiana,LA,Region VI,South:West South Central
+425,22,Louisiana,LA,Region VI,South:West South Central
+255,36,New York,NY,Region II,Northeast:Middle Atlantic
+831,17,Illinois,IL,Region V,Midwest:East North Central
+645,01,Alabama,AL,Region IV,South:East South Central
+894,12,Florida,FL,Region IV,South:South Atlantic
+881,22,Louisiana,LA,Region VI,South:West South Central
+910,53,Washington,WA,Region X,West:Pacific
+395,39,Ohio,OH,Region V,Midwest:East North Central
+784,17,Illinois,IL,Region V,Midwest:East North Central
+598,51,Virginia,VA,Region III,South:South Atlantic
+690,12,Florida,FL,Region IV,South:South Atlantic
+680,17,Illinois,IL,Region V,Midwest:East North Central
+489,39,Ohio,OH,Region V,Midwest:East North Central
+871,47,Tennessee,TN,Region IV,South:East South Central
+662,48,Texas,TX,Region VI,South:West South Central
+500,22,Louisiana,LA,Region VI,South:West South Central
+845,26,Michigan,MI,Region V,Midwest:East North Central
+914,48,Texas,TX,Region VI,South:West South Central
+178,12,Florida,FL,Region IV,South:South Atlantic
+899,37,North Carolina,NC,Region IV,South:South Atlantic
+230,12,Florida,FL,Region IV,South:South Atlantic
+372,51,Virginia,VA,Region III,South:South Atlantic
+919,12,Florida,FL,Region IV,South:South Atlantic
+376,13,Georgia,GA,Region IV,South:South Atlantic
+446,53,Washington,WA,Region X,West:Pacific
+965,39,Ohio,OH,Region V,Midwest:East North Central
+206,36,New York,NY,Region II,Northeast:Middle Atlantic
+305,04,Arizona,AZ,Region IX,West:Mountain
+414,06,California,CA,Region IX,West:Pacific
+327,37,North Carolina,NC,Region IV,South:South Atlantic
+823,53,Washington,WA,Region X,West:Pacific
+198,12,Florida,FL,Region IV,South:South Atlantic
+103,47,Tennessee,TN,Region IV,South:East South Central
+635,36,New York,NY,Region II,Northeast:Middle Atlantic
+878,51,Virginia,VA,Region III,South:South Atlantic
+481,36,New York,NY,Region II,Northeast:Middle Atlantic
+142,51,Virginia,VA,Region III,South:South Atlantic
+403,26,Michigan,MI,Region V,Midwest:East North Central
+477,48,Texas,TX,Region VI,South:West South Central
+695,36,New York,NY,Region II,Northeast:Middle Atlantic
+193,48,Texas,TX,Region VI,South:West South Central
+405,22,Louisiana,LA,Region VI,South:West South Central
+873,06,California,CA,Region IX,West:Pacific
+966,53,Washington,WA,Region X,West:Pacific
+359,39,Ohio,OH,Region V,Midwest:East North Central
+250,17,Illinois,IL,Region V,Midwest:East North Central
+813,01,Alabama,AL,Region IV,South:East South Central
+394,53,Washington,WA,Region X,West:Pacific
+948,12,Florida,FL,Region IV,South:South Atlantic
+448,47,Tennessee,TN,Region IV,South:East South Central
+286,51,Virginia,VA,Region III,South:South Atlantic
+317,06,California,CA,Region IX,West:Pacific
+503,12,Florida,FL,Region IV,South:South Atlantic
+879,13,Georgia,GA,Region IV,South:South Atlantic
+846,47,Tennessee,TN,Region IV,South:East South Central
+478,47,Tennessee,TN,Region IV,South:East South Central
+675,12,Florida,FL,Region IV,South:South Atlantic
+263,17,Illinois,IL,Region V,Midwest:East North Central
+714,06,California,CA,Region IX,West:Pacific
+627,39,Ohio,OH,Region V,Midwest:East North Central
+456,22,Louisiana,LA,Region VI,South:West South Central
+755,37,North Carolina,NC,Region IV,South:South Atlantic
+807,22,Louisiana,LA,Region VI,South:West South Central
+747,47,Tennessee,TN,Region IV,South:East South Central
+673,12,Florida,FL,Region IV,South:South Atlantic
+205,26,Michigan,MI,Region V,Midwest:East North Central
+883,48,Texas,TX,Region VI,South:West South Central
+152,53,Washington,WA,Region X,West:Pacific
+666,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+522,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+891,47,Tennessee,TN,Region IV,South:East South Central
+428,39,Ohio,OH,Region V,Midwest:East North Central
+133,53,Washington,WA,Region X,West:Pacific
+219,47,Tennessee,TN,Region IV,South:East South Central
+400,53,Washington,WA,Region X,West:Pacific
+983,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+853,13,Georgia,GA,Region IV,South:South Atlantic
+869,51,Virginia,VA,Region III,South:South Atlantic
+127,12,Florida,FL,Region IV,South:South Atlantic
+981,12,Florida,FL,Region IV,South:South Atlantic
+453,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+855,53,Washington,WA,Region X,West:Pacific
+329,53,Washington,WA,Region X,West:Pacific
+716,26,Michigan,MI,Region V,Midwest:East North Central
+780,13,Georgia,GA,Region IV,South:South Atlantic
+953,01,Alabama,AL,Region IV,South:East South Central
+679,12,Florida,FL,Region IV,South:South Atlantic
+464,04,Arizona,AZ,Region IX,West:Mountain
+337,06,California,CA,Region IX,West:Pacific
+867,53,Washington,WA,Region X,West:Pacific
+671,01,Alabama,AL,Region IV,South:East South Central
+932,17,Illinois,IL,Region V,Midwest:East North Central
+556,47,Tennessee,TN,Region IV,South:East South Central
+536,37,North Carolina,NC,Region IV,South:South Atlantic
+520,13,Georgia,GA,Region IV,South:South Atlantic
+978,36,New York,NY,Region II,Northeast:Middle Atlantic
+237,12,Florida,FL,Region IV,South:South Atlantic
+310,06,California,CA,Region IX,West:Pacific
+532,53,Washington,WA,Region X,West:Pacific
+639,51,Virginia,VA,Region III,South:South Atlantic
+749,22,Louisiana,LA,Region VI,South:West South Central
+968,36,New York,NY,Region II,Northeast:Middle Atlantic
+624,53,Washington,WA,Region X,West:Pacific
+148,53,Washington,WA,Region X,West:Pacific
+696,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+215,37,North Carolina,NC,Region IV,South:South Atlantic
+512,01,Alabama,AL,Region IV,South:East South Central
+523,04,Arizona,AZ,Region IX,West:Mountain
+251,48,Texas,TX,Region VI,South:West South Central
+629,12,Florida,FL,Region IV,South:South Atlantic
+774,47,Tennessee,TN,Region IV,South:East South Central
+101,51,Virginia,VA,Region III,South:South Atlantic
+962,37,North Carolina,NC,Region IV,South:South Atlantic
+811,47,Tennessee,TN,Region IV,South:East South Central
+705,51,Virginia,VA,Region III,South:South Atlantic
+641,51,Virginia,VA,Region III,South:South Atlantic
+345,04,Arizona,AZ,Region IX,West:Mountain
+779,04,Arizona,AZ,Region IX,West:Mountain
+574,17,Illinois,IL,Region V,Midwest:East North Central
+916,36,New York,NY,Region II,Northeast:Middle Atlantic
+753,17,Illinois,IL,Region V,Midwest:East North Central
+366,53,Washington,WA,Region X,West:Pacific
+450,48,Texas,TX,Region VI,South:West South Central
+819,13,Georgia,GA,Region IV,South:South Atlantic
+271,36,New York,NY,Region II,Northeast:Middle Atlantic
+674,47,Tennessee,TN,Region IV,South:East South Central
+735,53,Washington,WA,Region X,West:Pacific
+259,12,Florida,FL,Region IV,South:South Atlantic
+137,53,Washington,WA,Region X,West:Pacific
+898,53,Washington,WA,Region X,West:Pacific
+413,53,Washington,WA,Region X,West:Pacific
+307,17,Illinois,IL,Region V,Midwest:East North Central
+507,04,Arizona,AZ,Region IX,West:Mountain
+822,47,Tennessee,TN,Region IV,South:East South Central
+117,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+634,53,Washington,WA,Region X,West:Pacific
+222,47,Tennessee,TN,Region IV,South:East South Central
+248,39,Ohio,OH,Region V,Midwest:East North Central
+704,36,New York,NY,Region II,Northeast:Middle Atlantic
+253,37,North Carolina,NC,Region IV,South:South Atlantic
+301,04,Arizona,AZ,Region IX,West:Mountain
+766,01,Alabama,AL,Region IV,South:East South Central
+458,04,Arizona,AZ,Region IX,West:Mountain
+644,13,Georgia,GA,Region IV,South:South Atlantic
+732,39,Ohio,OH,Region V,Midwest:East North Central
+718,39,Ohio,OH,Region V,Midwest:East North Central
+419,01,Alabama,AL,Region IV,South:East South Central
+698,37,North Carolina,NC,Region IV,South:South Atlantic
+289,47,Tennessee,TN,Region IV,South:East South Central
+602,12,Florida,FL,Region IV,South:South Atlantic
+349,48,Texas,TX,Region VI,South:West South Central
+885,39,Ohio,OH,Region V,Midwest:East North Central
+278,39,Ohio,OH,Region V,Midwest:East North Central
+191,48,Texas,TX,Region VI,South:West South Central
+643,39,Ohio,OH,Region V,Midwest:East North Central
+545,04,Arizona,AZ,Region IX,West:Mountain
+765,26,Michigan,MI,Region V,Midwest:East North Central
+491,26,Michigan,MI,Region V,Midwest:East North Central
+860,26,Michigan,MI,Region V,Midwest:East North Central
+741,36,New York,NY,Region II,Northeast:Middle Atlantic
+294,06,California,CA,Region IX,West:Pacific
+685,06,California,CA,Region IX,West:Pacific
+805,36,New York,NY,Region II,Northeast:Middle Atlantic
+552,12,Florida,FL,Region IV,South:South Atlantic
+535,37,North Carolina,NC,Region IV,South:South Atlantic
+812,17,Illinois,IL,Region V,Midwest:East North Central
+594,01,Alabama,AL,Region IV,South:East South Central
+521,37,North Carolina,NC,Region IV,South:South Atlantic
+347,04,Arizona,AZ,Region IX,West:Mountain
+849,51,Virginia,VA,Region III,South:South Atlantic
+601,48,Texas,TX,Region VI,South:West South Central
+406,48,Texas,TX,Region VI,South:West South Central
+638,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+157,01,Alabama,AL,Region IV,South:East South Central
+517,53,Washington,WA,Region X,West:Pacific
+719,01,Alabama,AL,Region IV,South:East South Central
+599,37,North Carolina,NC,Region IV,South:South Atlantic
+606,47,Tennessee,TN,Region IV,South:East South Central
+969,47,Tennessee,TN,Region IV,South:East South Central
+954,37,North Carolina,NC,Region IV,South:South Atlantic
+299,12,Florida,FL,Region IV,South:South Atlantic
+758,53,Washington,WA,Region X,West:Pacific
+789,12,Florida,FL,Region IV,South:South Atlantic
+120,22,Louisiana,LA,Region VI,South:West South Central
+288,37,North Carolina,NC,Region IV,South:South Atlantic
+637,53,Washington,WA,Region X,West:Pacific
+958,37,North Carolina,NC,Region IV,South:South Atlantic
+302,17,Illinois,IL,Region V,Midwest:East North Central
+447,36,New York,NY,Region II,Northeast:Middle Atlantic
+543,39,Ohio,OH,Region V,Midwest:East North Central
+620,48,Texas,TX,Region VI,South:West South Central
+951,22,Louisiana,LA,Region VI,South:West South Central
+530,53,Washington,WA,Region X,West:Pacific
+799,06,California,CA,Region IX,West:Pacific
+515,22,Louisiana,LA,Region VI,South:West South Central
+921,36,New York,NY,Region II,Northeast:Middle Atlantic
+739,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+809,04,Arizona,AZ,Region IX,West:Mountain
+147,36,New York,NY,Region II,Northeast:Middle Atlantic
+909,47,Tennessee,TN,Region IV,South:East South Central
+189,26,Michigan,MI,Region V,Midwest:East North Central
+407,06,California,CA,Region IX,West:Pacific
+927,12,Florida,FL,Region IV,South:South Atlantic
+997,37,North Carolina,NC,Region IV,South:South Atlantic
+476,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+218,06,California,CA,Region IX,West:Pacific
+668,53,Washington,WA,Region X,West:Pacific
+229,48,Texas,TX,Region VI,South:West South Central
+930,22,Louisiana,LA,Region VI,South:West South Central
+681,39,Ohio,OH,Region V,Midwest:East North Central
+318,06,California,CA,Region IX,West:Pacific
+492,36,New York,NY,Region II,Northeast:Middle Atlantic
+160,36,New York,NY,Region II,Northeast:Middle Atlantic
+525,48,Texas,TX,Region VI,South:West South Central
+173,37,North Carolina,NC,Region IV,South:South Atlantic
+484,22,Louisiana,LA,Region VI,South:West South Central
+569,48,Texas,TX,Region VI,South:West South Central
+591,47,Tennessee,TN,Region IV,South:East South Central
+664,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+290,51,Virginia,VA,Region III,South:South Atlantic
+420,17,Illinois,IL,Region V,Midwest:East North Central
+796,01,Alabama,AL,Region IV,South:East South Central
+640,17,Illinois,IL,Region V,Midwest:East North Central
+841,53,Washington,WA,Region X,West:Pacific
+993,22,Louisiana,LA,Region VI,South:West South Central
+336,51,Virginia,VA,Region III,South:South Atlantic
+322,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+203,48,Texas,TX,Region VI,South:West South Central
+912,04,Arizona,AZ,Region IX,West:Mountain
+995,22,Louisiana,LA,Region VI,South:West South Central
+752,39,Ohio,OH,Region V,Midwest:East North Central
+864,51,Virginia,VA,Region III,South:South Atlantic
+287,13,Georgia,GA,Region IV,South:South Atlantic
+404,26,Michigan,MI,Region V,Midwest:East North Central
+432,13,Georgia,GA,Region IV,South:South Atlantic
+702,36,New York,NY,Region II,Northeast:Middle Atlantic
+434,48,Texas,TX,Region VI,South:West South Central
+974,48,Texas,TX,Region VI,South:West South Central
+112,37,North Carolina,NC,Region IV,South:South Atlantic
+709,06,California,CA,Region IX,West:Pacific
+988,22,Louisiana,LA,Region VI,South:West South Central
+816,48,Texas,TX,Region VI,South:West South Central
+196,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+678,36,New York,NY,Region II,Northeast:Middle Atlantic
+870,17,Illinois,IL,Region V,Midwest:East North Central
+937,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+656,26,Michigan,MI,Region V,Midwest:East North Central
+427,47,Tennessee,TN,Region IV,South:East South Central
+361,26,Michigan,MI,Region V,Midwest:East North Central
+604,12,Florida,FL,Region IV,South:South Atlantic
+733,13,Georgia,GA,Region IV,South:South Atlantic
+239,22,Louisiana,LA,Region VI,South:West South Central
+410,01,Alabama,AL,Region IV,South:East South Central
+570,26,Michigan,MI,Region V,Midwest:East North Central
+487,36,New York,NY,Region II,Northeast:Middle Atlantic
+486,51,Virginia,VA,Region III,South:South Atlantic
+128,53,Washington,WA,Region X,West:Pacific
+618,48,Texas,TX,Region VI,South:West South Central
+110,48,Texas,TX,Region VI,South:West South Central
+998,04,Arizona,AZ,Region IX,West:Mountain
+164,22,Louisiana,LA,Region VI,South:West South Central
+751,17,Illinois,IL,Region V,Midwest:East North Central
+475,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+401,13,Georgia,GA,Region IV,South:South Atlantic
+895,01,Alabama,AL,Region IV,South:East South Central
+387,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+934,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+913,17,Illinois,IL,Region V,Midwest:East North Central
+964,04,Arizona,AZ,Region IX,West:Mountain
+992,53,Washington,WA,Region X,West:Pacific
+279,01,Alabama,AL,Region IV,South:East South Central
+923,04,Arizona,AZ,Region IX,West:Mountain
+227,06,California,CA,Region IX,West:Pacific
+922,37,North Carolina,NC,Region IV,South:South Atlantic
+947,36,New York,NY,Region II,Northeast:Middle Atlantic
+151,06,California,CA,Region IX,West:Pacific
+504,48,Texas,TX,Region VI,South:West South Central
+143,39,Ohio,OH,Region V,Midwest:East North Central
+859,06,California,CA,Region IX,West:Pacific
+578,47,Tennessee,TN,Region IV,South:East South Central
+272,13,Georgia,GA,Region IV,South:South Atlantic
+528,26,Michigan,MI,Region V,Midwest:East North Central
+330,12,Florida,FL,Region IV,South:South Atlantic
+363,12,Florida,FL,Region IV,South:South Atlantic
+273,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+579,53,Washington,WA,Region X,West:Pacific
+757,06,California,CA,Region IX,West:Pacific
+457,26,Michigan,MI,Region V,Midwest:East North Central
+315,12,Florida,FL,Region IV,South:South Atlantic
+436,37,North Carolina,NC,Region IV,South:South Atlantic
+731,37,North Carolina,NC,Region IV,South:South Atlantic
+713,47,Tennessee,TN,Region IV,South:East South Central
+284,26,Michigan,MI,Region V,Midwest:East North Central
+986,48,Texas,TX,Region VI,South:West South Central
+830,22,Louisiana,LA,Region VI,South:West South Central
+617,13,Georgia,GA,Region IV,South:South Atlantic
+803,12,Florida,FL,Region IV,South:South Atlantic
+262,17,Illinois,IL,Region V,Midwest:East North Central
+443,22,Louisiana,LA,Region VI,South:West South Central
+866,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+586,51,Virginia,VA,Region III,South:South Atlantic
+242,48,Texas,TX,Region VI,South:West South Central
+984,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+717,04,Arizona,AZ,Region IX,West:Mountain
+132,53,Washington,WA,Region X,West:Pacific
+835,39,Ohio,OH,Region V,Midwest:East North Central
+529,12,Florida,FL,Region IV,South:South Atlantic
+182,37,North Carolina,NC,Region IV,South:South Atlantic
+708,48,Texas,TX,Region VI,South:West South Central
+950,53,Washington,WA,Region X,West:Pacific
+252,26,Michigan,MI,Region V,Midwest:East North Central
+283,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+745,13,Georgia,GA,Region IV,South:South Atlantic
+804,39,Ohio,OH,Region V,Midwest:East North Central
+277,53,Washington,WA,Region X,West:Pacific
+609,39,Ohio,OH,Region V,Midwest:East North Central
+808,36,New York,NY,Region II,Northeast:Middle Atlantic
+649,01,Alabama,AL,Region IV,South:East South Central
+906,04,Arizona,AZ,Region IX,West:Mountain
+466,04,Arizona,AZ,Region IX,West:Mountain
+585,26,Michigan,MI,Region V,Midwest:East North Central
+384,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+682,47,Tennessee,TN,Region IV,South:East South Central
+409,36,New York,NY,Region II,Northeast:Middle Atlantic
+575,39,Ohio,OH,Region V,Midwest:East North Central
+581,12,Florida,FL,Region IV,South:South Atlantic
+945,26,Michigan,MI,Region V,Midwest:East North Central
+179,51,Virginia,VA,Region III,South:South Atlantic
+621,47,Tennessee,TN,Region IV,South:East South Central
+461,01,Alabama,AL,Region IV,South:East South Central
+348,47,Tennessee,TN,Region IV,South:East South Central
+260,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+220,36,New York,NY,Region II,Northeast:Middle Atlantic
+378,06,California,CA,Region IX,West:Pacific
+941,26,Michigan,MI,Region V,Midwest:East North Central
+938,36,New York,NY,Region II,Northeast:Middle Atlantic
+166,22,Louisiana,LA,Region VI,South:West South Central
+537,17,Illinois,IL,Region V,Midwest:East North Central
+840,51,Virginia,VA,Region III,South:South Atlantic
+368,37,North Carolina,NC,Region IV,South:South Atlantic
+826,48,Texas,TX,Region VI,South:West South Central
+371,04,Arizona,AZ,Region IX,West:Mountain
+868,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+293,06,California,CA,Region IX,West:Pacific
+463,53,Washington,WA,Region X,West:Pacific
+270,53,Washington,WA,Region X,West:Pacific
+328,48,Texas,TX,Region VI,South:West South Central
+244,37,North Carolina,NC,Region IV,South:South Atlantic
+119,48,Texas,TX,Region VI,South:West South Central
+411,12,Florida,FL,Region IV,South:South Atlantic
+524,17,Illinois,IL,Region V,Midwest:East North Central
+168,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+266,06,California,CA,Region IX,West:Pacific
+651,39,Ohio,OH,Region V,Midwest:East North Central
+183,48,Texas,TX,Region VI,South:West South Central
+772,37,North Carolina,NC,Region IV,South:South Atlantic
+692,51,Virginia,VA,Region III,South:South Atlantic
+760,01,Alabama,AL,Region IV,South:East South Central
+156,04,Arizona,AZ,Region IX,West:Mountain
+963,17,Illinois,IL,Region V,Midwest:East North Central
+783,51,Virginia,VA,Region III,South:South Atlantic
+495,13,Georgia,GA,Region IV,South:South Atlantic
+700,01,Alabama,AL,Region IV,South:East South Central
+943,47,Tennessee,TN,Region IV,South:East South Central
+140,22,Louisiana,LA,Region VI,South:West South Central
+626,36,New York,NY,Region II,Northeast:Middle Atlantic
+658,37,North Carolina,NC,Region IV,South:South Atlantic
+241,06,California,CA,Region IX,West:Pacific
+742,12,Florida,FL,Region IV,South:South Atlantic
+897,17,Illinois,IL,Region V,Midwest:East North Central
+186,26,Michigan,MI,Region V,Midwest:East North Central
+460,13,Georgia,GA,Region IV,South:South Atlantic
+918,48,Texas,TX,Region VI,South:West South Central
+929,37,North Carolina,NC,Region IV,South:South Atlantic
+818,51,Virginia,VA,Region III,South:South Atlantic
+526,53,Washington,WA,Region X,West:Pacific
+762,13,Georgia,GA,Region IV,South:South Atlantic
+893,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+663,17,Illinois,IL,Region V,Midwest:East North Central
+381,37,North Carolina,NC,Region IV,South:South Atlantic
+691,36,New York,NY,Region II,Northeast:Middle Atlantic
+399,22,Louisiana,LA,Region VI,South:West South Central
+642,06,California,CA,Region IX,West:Pacific
+544,48,Texas,TX,Region VI,South:West South Central
+622,39,Ohio,OH,Region V,Midwest:East North Central
+224,17,Illinois,IL,Region V,Midwest:East North Central
+509,47,Tennessee,TN,Region IV,South:East South Central
+659,47,Tennessee,TN,Region IV,South:East South Central
+971,26,Michigan,MI,Region V,Midwest:East North Central
+590,01,Alabama,AL,Region IV,South:East South Central
+300,01,Alabama,AL,Region IV,South:East South Central
+721,26,Michigan,MI,Region V,Midwest:East North Central
+188,06,California,CA,Region IX,West:Pacific
+226,51,Virginia,VA,Region III,South:South Atlantic
+588,22,Louisiana,LA,Region VI,South:West South Central
+829,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+836,17,Illinois,IL,Region V,Midwest:East North Central
+563,04,Arizona,AZ,Region IX,West:Mountain
+972,47,Tennessee,TN,Region IV,South:East South Central
+654,48,Texas,TX,Region VI,South:West South Central
+886,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+560,13,Georgia,GA,Region IV,South:South Atlantic
+235,06,California,CA,Region IX,West:Pacific
+857,39,Ohio,OH,Region V,Midwest:East North Central
+960,17,Illinois,IL,Region V,Midwest:East North Central
+393,12,Florida,FL,Region IV,South:South Atlantic
+558,01,Alabama,AL,Region IV,South:East South Central
+465,48,Texas,TX,Region VI,South:West South Central
+396,51,Virginia,VA,Region III,South:South Atlantic
+904,53,Washington,WA,Region X,West:Pacific
+942,12,Florida,FL,Region IV,South:South Atlantic
+134,26,Michigan,MI,Region V,Midwest:East North Central
+505,22,Louisiana,LA,Region VI,South:West South Central
+108,22,Louisiana,LA,Region VI,South:West South Central
+842,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+961,36,New York,NY,Region II,Northeast:Middle Atlantic
+285,53,Washington,WA,Region X,West:Pacific
+593,47,Tennessee,TN,Region IV,South:East South Central
+650,13,Georgia,GA,Region IV,South:South Atlantic
+306,48,Texas,TX,Region VI,South:West South Central
+508,22,Louisiana,LA,Region VI,South:West South Central
+843,22,Louisiana,LA,Region VI,South:West South Central
+303,36,New York,NY,Region II,Northeast:Middle Atlantic
+165,22,Louisiana,LA,Region VI,South:West South Central
+967,48,Texas,TX,Region VI,South:West South Central
+655,17,Illinois,IL,Region V,Midwest:East North Central
+736,48,Texas,TX,Region VI,South:West South Central
+382,13,Georgia,GA,Region IV,South:South Atlantic
+771,01,Alabama,AL,Region IV,South:East South Central
+245,36,New York,NY,Region II,Northeast:Middle Atlantic
+471,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+989,26,Michigan,MI,Region V,Midwest:East North Central
+877,51,Virginia,VA,Region III,South:South Atlantic
+737,26,Michigan,MI,Region V,Midwest:East North Central
+790,39,Ohio,OH,Region V,Midwest:East North Central
+389,51,Virginia,VA,Region III,South:South Atlantic
+367,06,California,CA,Region IX,West:Pacific
+479,01,Alabama,AL,Region IV,South:East South Central
+257,53,Washington,WA,Region X,West:Pacific
+269,13,Georgia,GA,Region IV,South:South Atlantic
+798,37,North Carolina,NC,Region IV,South:South Atlantic
+832,47,Tennessee,TN,Region IV,South:East South Central
+975,22,Louisiana,LA,Region VI,South:West South Central
+564,47,Tennessee,TN,Region IV,South:East South Central
+194,48,Texas,TX,Region VI,South:West South Central
+155,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+124,06,California,CA,Region IX,West:Pacific
+202,12,Florida,FL,Region IV,South:South Atlantic
+510,04,Arizona,AZ,Region IX,West:Mountain
+854,04,Arizona,AZ,Region IX,West:Mountain
+851,37,North Carolina,NC,Region IV,South:South Atlantic
+939,26,Michigan,MI,Region V,Midwest:East North Central
+647,53,Washington,WA,Region X,West:Pacific
+325,39,Ohio,OH,Region V,Midwest:East North Central
+703,04,Arizona,AZ,Region IX,West:Mountain
+672,01,Alabama,AL,Region IV,South:East South Central
+238,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+786,47,Tennessee,TN,Region IV,South:East South Central
+506,36,New York,NY,Region II,Northeast:Middle Atlantic
+320,47,Tennessee,TN,Region IV,South:East South Central
+200,39,Ohio,OH,Region V,Midwest:East North Central
+769,13,Georgia,GA,Region IV,South:South Atlantic
+768,04,Arizona,AZ,Region IX,West:Mountain
+557,17,Illinois,IL,Region V,Midwest:East North Central
+291,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+435,17,Illinois,IL,Region V,Midwest:East North Central
+358,53,Washington,WA,Region X,West:Pacific
+889,37,North Carolina,NC,Region IV,South:South Atlantic
+959,51,Virginia,VA,Region III,South:South Atlantic
+332,13,Georgia,GA,Region IV,South:South Atlantic
+838,06,California,CA,Region IX,West:Pacific
+688,37,North Carolina,NC,Region IV,South:South Atlantic
+839,48,Texas,TX,Region VI,South:West South Central
+514,13,Georgia,GA,Region IV,South:South Atlantic
+297,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+676,12,Florida,FL,Region IV,South:South Atlantic
+875,37,North Carolina,NC,Region IV,South:South Atlantic
+764,04,Arizona,AZ,Region IX,West:Mountain
+149,13,Georgia,GA,Region IV,South:South Atlantic
+174,53,Washington,WA,Region X,West:Pacific
+944,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+603,39,Ohio,OH,Region V,Midwest:East North Central
+706,48,Texas,TX,Region VI,South:West South Central
+153,36,New York,NY,Region II,Northeast:Middle Atlantic
+689,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+346,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+723,37,North Carolina,NC,Region IV,South:South Atlantic
+181,48,Texas,TX,Region VI,South:West South Central
+210,17,Illinois,IL,Region V,Midwest:East North Central
+761,37,North Carolina,NC,Region IV,South:South Atlantic
+326,53,Washington,WA,Region X,West:Pacific
+424,13,Georgia,GA,Region IV,South:South Atlantic
+785,51,Virginia,VA,Region III,South:South Atlantic
+308,04,Arizona,AZ,Region IX,West:Mountain
+576,22,Louisiana,LA,Region VI,South:West South Central
+607,13,Georgia,GA,Region IV,South:South Atlantic
+926,04,Arizona,AZ,Region IX,West:Mountain
+538,26,Michigan,MI,Region V,Midwest:East North Central
+223,17,Illinois,IL,Region V,Midwest:East North Central
+863,04,Arizona,AZ,Region IX,West:Mountain
+613,53,Washington,WA,Region X,West:Pacific
+267,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+123,17,Illinois,IL,Region V,Midwest:East North Central
+380,51,Virginia,VA,Region III,South:South Atlantic
+547,48,Texas,TX,Region VI,South:West South Central
+280,12,Florida,FL,Region IV,South:South Atlantic
+201,53,Washington,WA,Region X,West:Pacific
+232,04,Arizona,AZ,Region IX,West:Mountain
+080,36,New York,NY,Region II,Northeast:Middle Atlantic
+1417,06,California,CA,Region IX,West:Pacific
+1735,51,Virginia,VA,Region III,South:South Atlantic
+1101,04,Arizona,AZ,Region IX,West:Mountain
+1358,39,Ohio,OH,Region V,Midwest:East North Central
+1708,01,Alabama,AL,Region IV,South:East South Central
+088,17,Illinois,IL,Region V,Midwest:East North Central
+782,37,North Carolina,NC,Region IV,South:South Atlantic
+437,48,Texas,TX,Region VI,South:West South Central
+1409,47,Tennessee,TN,Region IV,South:East South Central
+039,17,Illinois,IL,Region V,Midwest:East North Central
+1072,12,Florida,FL,Region IV,South:South Atlantic
+187,13,Georgia,GA,Region IV,South:South Atlantic
+1073,48,Texas,TX,Region VI,South:West South Central
+729,53,Washington,WA,Region X,West:Pacific
+1380,06,California,CA,Region IX,West:Pacific
+1584,47,Tennessee,TN,Region IV,South:East South Central
+1267,22,Louisiana,LA,Region VI,South:West South Central
+131,13,Georgia,GA,Region IV,South:South Atlantic
+319,22,Louisiana,LA,Region VI,South:West South Central
+018,36,New York,NY,Region II,Northeast:Middle Atlantic
+1724,48,Texas,TX,Region VI,South:West South Central
+1071,53,Washington,WA,Region X,West:Pacific
+580,17,Illinois,IL,Region V,Midwest:East North Central
+073,36,New York,NY,Region II,Northeast:Middle Atlantic
+1680,22,Louisiana,LA,Region VI,South:West South Central
+1290,51,Virginia,VA,Region III,South:South Atlantic
+1728,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1149,22,Louisiana,LA,Region VI,South:West South Central
+1658,01,Alabama,AL,Region IV,South:East South Central
+1886,13,Georgia,GA,Region IV,South:South Atlantic
+1556,51,Virginia,VA,Region III,South:South Atlantic
+190,06,California,CA,Region IX,West:Pacific
+1574,47,Tennessee,TN,Region IV,South:East South Central
+408,26,Michigan,MI,Region V,Midwest:East North Central
+1167,37,North Carolina,NC,Region IV,South:South Atlantic
+1135,53,Washington,WA,Region X,West:Pacific
+057,51,Virginia,VA,Region III,South:South Atlantic
+1116,51,Virginia,VA,Region III,South:South Atlantic
+373,04,Arizona,AZ,Region IX,West:Mountain
+1068,06,California,CA,Region IX,West:Pacific
+1416,36,New York,NY,Region II,Northeast:Middle Atlantic
+632,51,Virginia,VA,Region III,South:South Atlantic
+1538,39,Ohio,OH,Region V,Midwest:East North Central
+217,36,New York,NY,Region II,Northeast:Middle Atlantic
+1178,47,Tennessee,TN,Region IV,South:East South Central
+1362,17,Illinois,IL,Region V,Midwest:East North Central
+1648,48,Texas,TX,Region VI,South:West South Central
+1293,26,Michigan,MI,Region V,Midwest:East North Central
+1035,17,Illinois,IL,Region V,Midwest:East North Central
+1208,48,Texas,TX,Region VI,South:West South Central
+047,51,Virginia,VA,Region III,South:South Atlantic
+1338,47,Tennessee,TN,Region IV,South:East South Central
+1182,17,Illinois,IL,Region V,Midwest:East North Central
+1298,12,Florida,FL,Region IV,South:South Atlantic
+1688,47,Tennessee,TN,Region IV,South:East South Central
+1437,04,Arizona,AZ,Region IX,West:Mountain
+1926,26,Michigan,MI,Region V,Midwest:East North Central
+1464,17,Illinois,IL,Region V,Midwest:East North Central
+323,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+539,36,New York,NY,Region II,Northeast:Middle Atlantic
+1903,06,California,CA,Region IX,West:Pacific
+397,22,Louisiana,LA,Region VI,South:West South Central
+1117,53,Washington,WA,Region X,West:Pacific
+1907,48,Texas,TX,Region VI,South:West South Central
+1015,12,Florida,FL,Region IV,South:South Atlantic
+1566,39,Ohio,OH,Region V,Midwest:East North Central
+660,06,California,CA,Region IX,West:Pacific
+1965,12,Florida,FL,Region IV,South:South Atlantic
+1098,37,North Carolina,NC,Region IV,South:South Atlantic
+1650,48,Texas,TX,Region VI,South:West South Central
+1647,51,Virginia,VA,Region III,South:South Atlantic
+1554,17,Illinois,IL,Region V,Midwest:East North Central
+076,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1370,22,Louisiana,LA,Region VI,South:West South Central
+991,04,Arizona,AZ,Region IX,West:Mountain
+1200,51,Virginia,VA,Region III,South:South Atlantic
+888,01,Alabama,AL,Region IV,South:East South Central
+050,06,California,CA,Region IX,West:Pacific
+451,51,Virginia,VA,Region III,South:South Atlantic
+369,47,Tennessee,TN,Region IV,South:East South Central
+1989,37,North Carolina,NC,Region IV,South:South Atlantic
+572,47,Tennessee,TN,Region IV,South:East South Central
+770,22,Louisiana,LA,Region VI,South:West South Central
+1910,47,Tennessee,TN,Region IV,South:East South Central
+1845,04,Arizona,AZ,Region IX,West:Mountain
+1783,01,Alabama,AL,Region IV,South:East South Central
+1402,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+274,12,Florida,FL,Region IV,South:South Atlantic
+896,13,Georgia,GA,Region IV,South:South Atlantic
+468,37,North Carolina,NC,Region IV,South:South Atlantic
+1265,51,Virginia,VA,Region III,South:South Atlantic
+1726,53,Washington,WA,Region X,West:Pacific
+1381,51,Virginia,VA,Region III,South:South Atlantic
+077,06,California,CA,Region IX,West:Pacific
+1781,06,California,CA,Region IX,West:Pacific
+1084,26,Michigan,MI,Region V,Midwest:East North Central
+1351,51,Virginia,VA,Region III,South:South Atlantic
+1984,13,Georgia,GA,Region IV,South:South Atlantic
+1662,53,Washington,WA,Region X,West:Pacific
+1220,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1005,17,Illinois,IL,Region V,Midwest:East North Central
+1504,17,Illinois,IL,Region V,Midwest:East North Central
+109,01,Alabama,AL,Region IV,South:East South Central
+1187,12,Florida,FL,Region IV,South:South Atlantic
+1066,17,Illinois,IL,Region V,Midwest:East North Central
+1727,36,New York,NY,Region II,Northeast:Middle Atlantic
+1340,12,Florida,FL,Region IV,South:South Atlantic
+236,47,Tennessee,TN,Region IV,South:East South Central
+1029,17,Illinois,IL,Region V,Midwest:East North Central
+1851,06,California,CA,Region IX,West:Pacific
+1034,01,Alabama,AL,Region IV,South:East South Central
+592,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1363,13,Georgia,GA,Region IV,South:South Atlantic
+1563,51,Virginia,VA,Region III,South:South Atlantic
+730,39,Ohio,OH,Region V,Midwest:East North Central
+1736,17,Illinois,IL,Region V,Midwest:East North Central
+1582,22,Louisiana,LA,Region VI,South:West South Central
+1525,04,Arizona,AZ,Region IX,West:Mountain
+892,22,Louisiana,LA,Region VI,South:West South Central
+1203,51,Virginia,VA,Region III,South:South Atlantic
+1853,04,Arizona,AZ,Region IX,West:Mountain
+542,12,Florida,FL,Region IV,South:South Atlantic
+1660,47,Tennessee,TN,Region IV,South:East South Central
+1214,36,New York,NY,Region II,Northeast:Middle Atlantic
+1369,51,Virginia,VA,Region III,South:South Atlantic
+1945,04,Arizona,AZ,Region IX,West:Mountain
+1237,01,Alabama,AL,Region IV,South:East South Central
+1243,04,Arizona,AZ,Region IX,West:Mountain
+1503,47,Tennessee,TN,Region IV,South:East South Central
+1944,22,Louisiana,LA,Region VI,South:West South Central
+1730,26,Michigan,MI,Region V,Midwest:East North Central
+900,39,Ohio,OH,Region V,Midwest:East North Central
+1861,26,Michigan,MI,Region V,Midwest:East North Central
+1383,22,Louisiana,LA,Region VI,South:West South Central
+1152,06,California,CA,Region IX,West:Pacific
+777,01,Alabama,AL,Region IV,South:East South Central
+973,48,Texas,TX,Region VI,South:West South Central
+1769,01,Alabama,AL,Region IV,South:East South Central
+115,01,Alabama,AL,Region IV,South:East South Central
+1749,37,North Carolina,NC,Region IV,South:South Atlantic
+1279,22,Louisiana,LA,Region VI,South:West South Central
+940,06,California,CA,Region IX,West:Pacific
+1308,26,Michigan,MI,Region V,Midwest:East North Central
+1683,12,Florida,FL,Region IV,South:South Atlantic
+1269,17,Illinois,IL,Region V,Midwest:East North Central
+1814,17,Illinois,IL,Region V,Midwest:East North Central
+610,04,Arizona,AZ,Region IX,West:Mountain
+1356,48,Texas,TX,Region VI,South:West South Central
+1458,12,Florida,FL,Region IV,South:South Atlantic
+1678,37,North Carolina,NC,Region IV,South:South Atlantic
+1990,37,North Carolina,NC,Region IV,South:South Atlantic
+1227,22,Louisiana,LA,Region VI,South:West South Central
+1839,22,Louisiana,LA,Region VI,South:West South Central
+712,47,Tennessee,TN,Region IV,South:East South Central
+1097,48,Texas,TX,Region VI,South:West South Central
+1296,12,Florida,FL,Region IV,South:South Atlantic
+1197,26,Michigan,MI,Region V,Midwest:East North Central
+1776,22,Louisiana,LA,Region VI,South:West South Central
+1399,12,Florida,FL,Region IV,South:South Atlantic
+1993,39,Ohio,OH,Region V,Midwest:East North Central
+113,37,North Carolina,NC,Region IV,South:South Atlantic
+078,17,Illinois,IL,Region V,Midwest:East North Central
+1413,01,Alabama,AL,Region IV,South:East South Central
+1803,47,Tennessee,TN,Region IV,South:East South Central
+1348,37,North Carolina,NC,Region IV,South:South Atlantic
+1067,01,Alabama,AL,Region IV,South:East South Central
+1291,47,Tennessee,TN,Region IV,South:East South Central
+1685,22,Louisiana,LA,Region VI,South:West South Central
+391,51,Virginia,VA,Region III,South:South Atlantic
+1245,26,Michigan,MI,Region V,Midwest:East North Central
+1642,06,California,CA,Region IX,West:Pacific
+1500,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1547,39,Ohio,OH,Region V,Midwest:East North Central
+1181,04,Arizona,AZ,Region IX,West:Mountain
+605,06,California,CA,Region IX,West:Pacific
+068,22,Louisiana,LA,Region VI,South:West South Central
+763,48,Texas,TX,Region VI,South:West South Central
+1401,36,New York,NY,Region II,Northeast:Middle Atlantic
+1261,53,Washington,WA,Region X,West:Pacific
+1079,12,Florida,FL,Region IV,South:South Atlantic
+1787,17,Illinois,IL,Region V,Midwest:East North Central
+1929,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1711,12,Florida,FL,Region IV,South:South Atlantic
+1885,37,North Carolina,NC,Region IV,South:South Atlantic
+1841,47,Tennessee,TN,Region IV,South:East South Central
+1615,13,Georgia,GA,Region IV,South:South Atlantic
+1620,37,North Carolina,NC,Region IV,South:South Atlantic
+1062,17,Illinois,IL,Region V,Midwest:East North Central
+1866,37,North Carolina,NC,Region IV,South:South Atlantic
+1840,53,Washington,WA,Region X,West:Pacific
+1614,06,California,CA,Region IX,West:Pacific
+1160,37,North Carolina,NC,Region IV,South:South Atlantic
+1313,01,Alabama,AL,Region IV,South:East South Central
+1932,51,Virginia,VA,Region III,South:South Atlantic
+1213,47,Tennessee,TN,Region IV,South:East South Central
+516,26,Michigan,MI,Region V,Midwest:East North Central
+1391,01,Alabama,AL,Region IV,South:East South Central
+519,26,Michigan,MI,Region V,Midwest:East North Central
+1407,01,Alabama,AL,Region IV,South:East South Central
+1373,12,Florida,FL,Region IV,South:South Atlantic
+1898,36,New York,NY,Region II,Northeast:Middle Atlantic
+339,26,Michigan,MI,Region V,Midwest:East North Central
+1616,48,Texas,TX,Region VI,South:West South Central
+568,26,Michigan,MI,Region V,Midwest:East North Central
+778,06,California,CA,Region IX,West:Pacific
+1198,04,Arizona,AZ,Region IX,West:Mountain
+1637,13,Georgia,GA,Region IV,South:South Atlantic
+1893,39,Ohio,OH,Region V,Midwest:East North Central
+467,53,Washington,WA,Region X,West:Pacific
+1078,36,New York,NY,Region II,Northeast:Middle Atlantic
+1262,22,Louisiana,LA,Region VI,South:West South Central
+1309,13,Georgia,GA,Region IV,South:South Atlantic
+1316,47,Tennessee,TN,Region IV,South:East South Central
+1850,22,Louisiana,LA,Region VI,South:West South Central
+1954,04,Arizona,AZ,Region IX,West:Mountain
+1985,26,Michigan,MI,Region V,Midwest:East North Central
+184,51,Virginia,VA,Region III,South:South Atlantic
+540,37,North Carolina,NC,Region IV,South:South Atlantic
+1184,13,Georgia,GA,Region IV,South:South Atlantic
+1280,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1734,37,North Carolina,NC,Region IV,South:South Atlantic
+1033,04,Arizona,AZ,Region IX,West:Mountain
+1096,48,Texas,TX,Region VI,South:West South Central
+1872,36,New York,NY,Region II,Northeast:Middle Atlantic
+1832,01,Alabama,AL,Region IV,South:East South Central
+699,26,Michigan,MI,Region V,Midwest:East North Central
+081,37,North Carolina,NC,Region IV,South:South Atlantic
+1379,37,North Carolina,NC,Region IV,South:South Atlantic
+1361,26,Michigan,MI,Region V,Midwest:East North Central
+1742,22,Louisiana,LA,Region VI,South:West South Central
+1377,04,Arizona,AZ,Region IX,West:Mountain
+982,26,Michigan,MI,Region V,Midwest:East North Central
+1979,26,Michigan,MI,Region V,Midwest:East North Central
+1865,47,Tennessee,TN,Region IV,South:East South Central
+1895,37,North Carolina,NC,Region IV,South:South Atlantic
+469,17,Illinois,IL,Region V,Midwest:East North Central
+497,51,Virginia,VA,Region III,South:South Atlantic
+1896,01,Alabama,AL,Region IV,South:East South Central
+827,06,California,CA,Region IX,West:Pacific
+1170,53,Washington,WA,Region X,West:Pacific
+1923,06,California,CA,Region IX,West:Pacific
+1026,22,Louisiana,LA,Region VI,South:West South Central
+121,04,Arizona,AZ,Region IX,West:Mountain
+1636,13,Georgia,GA,Region IV,South:South Atlantic
+1119,22,Louisiana,LA,Region VI,South:West South Central
+631,13,Georgia,GA,Region IV,South:South Atlantic
+1221,06,California,CA,Region IX,West:Pacific
+791,17,Illinois,IL,Region V,Midwest:East North Central
+1019,22,Louisiana,LA,Region VI,South:West South Central
+1794,26,Michigan,MI,Region V,Midwest:East North Central
+844,06,California,CA,Region IX,West:Pacific
+1259,48,Texas,TX,Region VI,South:West South Central
+884,51,Virginia,VA,Region III,South:South Atlantic
+1207,36,New York,NY,Region II,Northeast:Middle Atlantic
+1253,17,Illinois,IL,Region V,Midwest:East North Central
+1975,22,Louisiana,LA,Region VI,South:West South Central
+1739,26,Michigan,MI,Region V,Midwest:East North Central
+1450,48,Texas,TX,Region VI,South:West South Central
+056,17,Illinois,IL,Region V,Midwest:East North Central
+357,26,Michigan,MI,Region V,Midwest:East North Central
+1716,36,New York,NY,Region II,Northeast:Middle Atlantic
+010,36,New York,NY,Region II,Northeast:Middle Atlantic
+1089,51,Virginia,VA,Region III,South:South Atlantic
+1080,22,Louisiana,LA,Region VI,South:West South Central
+1346,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1818,53,Washington,WA,Region X,West:Pacific
+876,06,California,CA,Region IX,West:Pacific
+1623,39,Ohio,OH,Region V,Midwest:East North Central
+1449,47,Tennessee,TN,Region IV,South:East South Central
+924,47,Tennessee,TN,Region IV,South:East South Central
+582,17,Illinois,IL,Region V,Midwest:East North Central
+176,53,Washington,WA,Region X,West:Pacific
+1357,51,Virginia,VA,Region III,South:South Atlantic
+1946,48,Texas,TX,Region VI,South:West South Central
+1222,48,Texas,TX,Region VI,South:West South Central
+1963,13,Georgia,GA,Region IV,South:South Atlantic
+1268,53,Washington,WA,Region X,West:Pacific
+1457,01,Alabama,AL,Region IV,South:East South Central
+1573,47,Tennessee,TN,Region IV,South:East South Central
+1297,48,Texas,TX,Region VI,South:West South Central
+1733,06,California,CA,Region IX,West:Pacific
+440,36,New York,NY,Region II,Northeast:Middle Atlantic
+213,13,Georgia,GA,Region IV,South:South Atlantic
+072,17,Illinois,IL,Region V,Midwest:East North Central
+058,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1638,47,Tennessee,TN,Region IV,South:East South Central
+015,51,Virginia,VA,Region III,South:South Atlantic
+1174,36,New York,NY,Region II,Northeast:Middle Atlantic
+1030,51,Virginia,VA,Region III,South:South Atlantic
+955,36,New York,NY,Region II,Northeast:Middle Atlantic
+1748,47,Tennessee,TN,Region IV,South:East South Central
+003,53,Washington,WA,Region X,West:Pacific
+1467,06,California,CA,Region IX,West:Pacific
+377,37,North Carolina,NC,Region IV,South:South Atlantic
+107,13,Georgia,GA,Region IV,South:South Atlantic
+355,53,Washington,WA,Region X,West:Pacific
+1524,22,Louisiana,LA,Region VI,South:West South Central
+850,13,Georgia,GA,Region IV,South:South Atlantic
+1729,22,Louisiana,LA,Region VI,South:West South Central
+114,01,Alabama,AL,Region IV,South:East South Central
+1427,01,Alabama,AL,Region IV,South:East South Central
+1659,39,Ohio,OH,Region V,Midwest:East North Central
+1242,53,Washington,WA,Region X,West:Pacific
+1212,47,Tennessee,TN,Region IV,South:East South Central
+1415,48,Texas,TX,Region VI,South:West South Central
+1640,47,Tennessee,TN,Region IV,South:East South Central
+021,39,Ohio,OH,Region V,Midwest:East North Central
+1404,47,Tennessee,TN,Region IV,South:East South Central
+1120,53,Washington,WA,Region X,West:Pacific
+1912,36,New York,NY,Region II,Northeast:Middle Atlantic
+1528,06,California,CA,Region IX,West:Pacific
+1126,48,Texas,TX,Region VI,South:West South Central
+228,04,Arizona,AZ,Region IX,West:Mountain
+1542,12,Florida,FL,Region IV,South:South Atlantic
+615,47,Tennessee,TN,Region IV,South:East South Central
+1618,17,Illinois,IL,Region V,Midwest:East North Central
+1905,22,Louisiana,LA,Region VI,South:West South Central
+1028,48,Texas,TX,Region VI,South:West South Central
+1829,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+494,39,Ohio,OH,Region V,Midwest:East North Central
+1704,53,Washington,WA,Region X,West:Pacific
+1038,39,Ohio,OH,Region V,Midwest:East North Central
+035,04,Arizona,AZ,Region IX,West:Mountain
+1233,47,Tennessee,TN,Region IV,South:East South Central
+104,48,Texas,TX,Region VI,South:West South Central
+1366,26,Michigan,MI,Region V,Midwest:East North Central
+1717,26,Michigan,MI,Region V,Midwest:East North Central
+1306,53,Washington,WA,Region X,West:Pacific
+1036,04,Arizona,AZ,Region IX,West:Mountain
+1047,39,Ohio,OH,Region V,Midwest:East North Central
+549,01,Alabama,AL,Region IV,South:East South Central
+1031,13,Georgia,GA,Region IV,South:South Atlantic
+1367,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+979,51,Virginia,VA,Region III,South:South Atlantic
+1924,13,Georgia,GA,Region IV,South:South Atlantic
+1127,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1303,26,Michigan,MI,Region V,Midwest:East North Central
+343,17,Illinois,IL,Region V,Midwest:East North Central
+214,01,Alabama,AL,Region IV,South:East South Central
+313,12,Florida,FL,Region IV,South:South Atlantic
+1570,06,California,CA,Region IX,West:Pacific
+246,47,Tennessee,TN,Region IV,South:East South Central
+483,47,Tennessee,TN,Region IV,South:East South Central
+1617,06,California,CA,Region IX,West:Pacific
+074,22,Louisiana,LA,Region VI,South:West South Central
+589,48,Texas,TX,Region VI,South:West South Central
+1672,17,Illinois,IL,Region V,Midwest:East North Central
+1714,48,Texas,TX,Region VI,South:West South Central
+333,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1374,36,New York,NY,Region II,Northeast:Middle Atlantic
+554,47,Tennessee,TN,Region IV,South:East South Central
+438,36,New York,NY,Region II,Northeast:Middle Atlantic
+648,48,Texas,TX,Region VI,South:West South Central
+1440,06,California,CA,Region IX,West:Pacific
+1469,12,Florida,FL,Region IV,South:South Atlantic
+030,39,Ohio,OH,Region V,Midwest:East North Central
+1088,13,Georgia,GA,Region IV,South:South Atlantic
+070,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1753,22,Louisiana,LA,Region VI,South:West South Central
+1777,47,Tennessee,TN,Region IV,South:East South Central
+1676,36,New York,NY,Region II,Northeast:Middle Atlantic
+1204,01,Alabama,AL,Region IV,South:East South Central
+1914,17,Illinois,IL,Region V,Midwest:East North Central
+1925,53,Washington,WA,Region X,West:Pacific
+1983,01,Alabama,AL,Region IV,South:East South Central
+1114,12,Florida,FL,Region IV,South:South Atlantic
+551,06,California,CA,Region IX,West:Pacific
+746,48,Texas,TX,Region VI,South:West South Central
+064,48,Texas,TX,Region VI,South:West South Central
+628,36,New York,NY,Region II,Northeast:Middle Atlantic
+1075,48,Texas,TX,Region VI,South:West South Central
+1689,17,Illinois,IL,Region V,Midwest:East North Central
+034,17,Illinois,IL,Region V,Midwest:East North Central
+861,39,Ohio,OH,Region V,Midwest:East North Central
+1869,17,Illinois,IL,Region V,Midwest:East North Central
+006,13,Georgia,GA,Region IV,South:South Atlantic
+1580,22,Louisiana,LA,Region VI,South:West South Central
+1041,53,Washington,WA,Region X,West:Pacific
+098,17,Illinois,IL,Region V,Midwest:East North Central
+652,12,Florida,FL,Region IV,South:South Atlantic
+1145,51,Virginia,VA,Region III,South:South Atlantic
+1161,22,Louisiana,LA,Region VI,South:West South Central
+1515,17,Illinois,IL,Region V,Midwest:East North Central
+1652,22,Louisiana,LA,Region VI,South:West South Central
+1375,04,Arizona,AZ,Region IX,West:Mountain
+1274,17,Illinois,IL,Region V,Midwest:East North Central
+1277,22,Louisiana,LA,Region VI,South:West South Central
+051,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1790,48,Texas,TX,Region VI,South:West South Central
+1103,51,Virginia,VA,Region III,South:South Atlantic
+1887,12,Florida,FL,Region IV,South:South Atlantic
+473,17,Illinois,IL,Region V,Midwest:East North Central
+1849,06,California,CA,Region IX,West:Pacific
+452,36,New York,NY,Region II,Northeast:Middle Atlantic
+1514,06,California,CA,Region IX,West:Pacific
+1552,47,Tennessee,TN,Region IV,South:East South Central
+776,12,Florida,FL,Region IV,South:South Atlantic
+1611,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+138,06,California,CA,Region IX,West:Pacific
+1312,37,North Carolina,NC,Region IV,South:South Atlantic
+1151,01,Alabama,AL,Region IV,South:East South Central
+1336,26,Michigan,MI,Region V,Midwest:East North Central
+1105,53,Washington,WA,Region X,West:Pacific
+379,53,Washington,WA,Region X,West:Pacific
+360,12,Florida,FL,Region IV,South:South Atlantic
+1473,01,Alabama,AL,Region IV,South:East South Central
+026,04,Arizona,AZ,Region IX,West:Mountain
+1740,34,New Jersey,NJ,Region II,Northeast:Middle Atlantic
+1874,01,Alabama,AL,Region IV,South:East South Central

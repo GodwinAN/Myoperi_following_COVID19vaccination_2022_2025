@@ -1,0 +1,19 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Generated HTML (intermediate, not needed in repo)
+*.html
+
+# Microsoft Office temp files
+~$*
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo

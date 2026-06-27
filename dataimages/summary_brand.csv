@@ -1,0 +1,5 @@
+brand_name,num_vax,num_unique_person,num_outcomes_risk,pd_risk,rate_risk,lower_ci,upper_ci,rate_se
+janssen,8,8,0,232,0.0,0.0,1590.0342,0.0
+moderna,144,131,8,3970,201.5113,86.9983,397.0577,71.245
+novavax,121,107,6,3324,180.5054,66.2423,392.8843,73.691
+pfizer,114,102,8,3154,253.6462,109.5064,499.7841,89.6775

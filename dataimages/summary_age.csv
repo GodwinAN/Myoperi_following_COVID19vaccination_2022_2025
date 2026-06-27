@@ -1,0 +1,3 @@
+age_cat,num_vax,num_unique_person,num_outcomes_risk,pd_risk,rate_risk,lower_ci,upper_ci,rate_se
+12_17,146,126,10,4065,246.0025,117.9677,452.4073,77.7928
+18_24,241,211,12,6615,181.4059,93.7351,316.8796,52.3674
