@@ -61,7 +61,7 @@ The `dataimages/` directory is both the input source (raw CSVs, schema images) a
 
 **Date format** — all raw dates are `DDMMMYYYY` strings (SAS format, e.g. `06JUL1997`). Parse with `pd.to_datetime(col, format='%d%b%Y', errors='coerce')`. Missing SAS dates (`.`) become `NaT`.
 
-**Seasons** — flu-year (Jul–Jun). A date in Aug 2022 → season `22_23`. The three seasons in scope are `22_23`, `23_24`, `24_25`.
+**Seasons** — COVID19-year (Jul–Jun). A date in Aug 2022 → season `22_23`. The three seasons in scope are `22_23`, `23_24`, `24_25`.
 
 **Vaccine codes** — `cvp` (Pfizer), `cvm` (Moderna), `cvn` (Novavax), `cvj` (Janssen), `cvu` (Unspecified).
 

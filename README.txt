@@ -14,7 +14,7 @@ pipeline on synthetic reference datasets that mirror the SAS dataset schemas.
 STUDY PARAMETERS
 ----------------
   Study window          : 2022-01-01 to 2026-01-01
-  Seasons (flu-year)    : 22_23 (Jul 2022 - Jun 2023)
+  Seasons (COVID19-year)    : 22_23 (Jul 2022 - Jun 2023)
                           23_24 (Jul 2023 - Jun 2024)
                           24_25 (Jul 2024 - Jun 2025)
   Eligible age range    : 12 to 24 years
@@ -133,7 +133,7 @@ through the following steps:
 
   Step 4 — Derive analytical variables
     - age_at_exposure  : age in years at the vaccination date
-    - season           : flu-year season (22_23, 23_24, 24_25)
+    - season           : COVID19-year season (22_23, 23_24, 24_25)
     - in_study_window  : 1 if date falls within 2022-01-01 to 2026-01-01
     - brand            : vaccine brand code prefix (cvp, cvm, cvn, cvj, cvu)
     - brand_label      : human-readable brand name
@@ -192,7 +192,7 @@ PART 5 — Risk Windows and Follow-up Time
   Censoring (risk_end_dt = minimum of all censor dates):
     disenrollment         = enrl_end_date
     death                 = death_date
-    study_end             = end of flu season (Jun 30 of that season)
+    study_end             = end of COVID19 season (Jun 30 of that season)
     observation_end       = risk_end_uncensored (first_vax_date + 28 days)
     next_dose             = next vaccination date - 1 day (earliest dose
                             strictly after first_vax_date, across all seasons)
@@ -265,7 +265,7 @@ PART 6b — Visualisations
   Settings       : RX = retail pharmacy (vaccines)
                    FB / PX / OFFICE = clinical (myocarditis)
   Facilities     : PHARM (vaccines); HOSP / ED / OUTPAT (myocarditis)
-  Seasons        : Flu-year (Jul - Jun). A date in Aug 2022 belongs to 22_23.
+  Seasons        : COVID19-year (Jul - Jun). A date in Aug 2022 belongs to 22_23.
   Random seed    : 42 (reproducible synthetic data)
 
 
